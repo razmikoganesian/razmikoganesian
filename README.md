@@ -17,7 +17,6 @@ Playwright, Cypress, TypeScript, JavaScript, Grafana, Postman, GIT, Figma, Jira,
   <img src="https://github.com/cypress-io/cypress-icons/blob/master/src/icons/icon_128x128.png" title="Cypress" alt="Cypress" width="80" height="80"/>&nbsp;
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="80" height="80"/>&nbsp;
   <img src="https://playwright.dev/img/playwright-logo.svg"  title="Playwright" alt="Playwright" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="80" height="80"/>&nbsp;
 </div>
 <div>
   <img src="https://www.svgrepo.com/show/353935/jira.svg" title="Jira" alt="Jira" width="80" height="80"/>&nbsp;
