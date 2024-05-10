@@ -5,7 +5,7 @@ I'm a QA Engineer with a diverse background in the igaming industry, IT, and hea
 As a collaborative team player, I have worked closely with developers, designers, and project managers to design and implement effective testing process. 
 
 Stack:
-Playwright, Cypress, TypeScript, JavaScript, Grafana, Postman, GIT, Figma, Jira, Confluence, Manual and Automation Testing, MSSQL, Agile, Russian (fluent), English (B2) Spanish (A2).
+JavaScript, React, Gatsby, GIT, Playwright, Cypress, Figma, Jira, Confluence, Automation Testing, SQL, Agile, Russian (fluent), English (B2) Spanish (A1)
 
 ### What next: Front-End for sure
 Which courses did I pass for that: 
