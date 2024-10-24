@@ -7,11 +7,6 @@ As a collaborative team player, I have worked closely with developers, designers
 Stack:
 JavaScript, React, Gatsby, GIT, Playwright, Cypress, Figma, Jira, Confluence, Automation Testing, SQL, Agile, Russian (fluent), English (B2) Spanish (A1)
 
-### What next: Front-End for sure
-Which courses did I pass for that: 
-- https://www.udemy.com/course/advanced-css-and-sass/?couponCode=OT50624NEW   (all cource)
-- https://www.udemy.com/course/the-complete-javascript-course/?couponCode=OT50624NEW  (1-15 blocks)
-- https://www.udemy.com/course/the-ultimate-react-course/?couponCode=OT50624NEW (1-10 blocks)
 
 
 ---
