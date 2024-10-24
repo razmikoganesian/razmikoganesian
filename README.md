@@ -23,7 +23,6 @@ Which courses did I pass for that:
   <img src="https://github.com/razmikoganesian/razmikoganesian/assets/148771832/0bbbc7b6-03c7-49e1-9656-9d64ecfeaa55" title="React" alt="React" width="80" height="80"/>&nbsp;
   <img src="https://github.com/razmikoganesian/razmikoganesian/assets/148771832/3ac6b237-af61-4358-80d0-1497019cebc3" title="HTML" alt="HTML" width="80" height="80"/>&nbsp;
   <img src="https://github.com/razmikoganesian/razmikoganesian/assets/148771832/9aae3441-1bc9-4865-af91-7e371e80ae75" title="CSS" alt="CSS" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/razmikoganesian/razmikoganesian/assets/148771832/6a955c24-e4e1-4f3f-ae83-7d8a0602024f" title="Gatsby" alt="Gatsby" width="80" height="80"/>&nbsp;
 </div>
 <div>
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="80" height="80"/>&nbsp;
