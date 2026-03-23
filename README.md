@@ -15,7 +15,7 @@ JavaScript, React, Gatsby, GIT, Playwright, Cypress, Figma, Jira, Confluence, Au
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="80" height="80"/>&nbsp;
-  <img src="https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg" title="Python" alt="Python" width="80" height="80"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/452091/python.svg" title="Python" alt="Python" width="80" height="80"/>&nbsp;
 </div>
 <div>
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="80" height="80"/>&nbsp;
