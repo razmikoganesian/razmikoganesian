@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 Welcome to my GitHub profile. 
-I'm a QA Engineer with a diverse background in the igaming industry, IT, and healthcare. With over 6 years of experience in manual, lead and automation. 
-As a collaborative team player, I have worked closely with developers, designers, and project managers to design and implement effective testing process. 
+QA Automation Engineer with 6+ years of experience, specializing in JavaScript and Python automation (Playwright, Cypress)
 
 Stack:
-JavaScript, React, Gatsby, GIT, Playwright, Cypress, Figma, Jira, Confluence, Automation Testing, SQL, Agile, Russian (fluent), English (B2) Spanish (A1)
+JavaScript / Python / Playwright / Cypress / API testing / CI/CD / Git 
 
 
 
