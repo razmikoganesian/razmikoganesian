@@ -20,7 +20,7 @@ JavaScript / Python / Playwright / Cypress / API testing / CI/CD / Git
   <img src="https://github.com/cypress-io/cypress-icons/blob/master/src/icons/icon_128x128.png" width="60"/>
   <img src="https://www.svgrepo.com/show/353935/jira.svg" width="60"/>
   <img src="https://www.svgrepo.com/show/373525/confluence.svg" width="60"/>
-  <img src="https://www.svgrepo.com/show/509966/git.svg" width="60"/>
+  <img src="https://www.svgrepo.com/show/452210/git.svg" width="60"/>
 </div>
 
 ---
