@@ -13,7 +13,7 @@ JavaScript / Python / Playwright / Cypress / API testing / CI/CD / Git
 ### :hammer_and_wrench: Languages and Tools :
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="60"/>
+  <img src="https://www.svgrepo.com/show/94397/java-script-logo.svg" width="60"/>
   <img src="https://www.svgrepo.com/show/452091/python.svg" width="60"/>
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="60"/>
   <img src="https://playwright.dev/img/playwright-logo.svg" width="60"/>
