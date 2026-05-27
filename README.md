@@ -13,14 +13,14 @@ JavaScript / Python / Playwright / Cypress / API testing / CI/CD / Git
 ### :hammer_and_wrench: Languages and Tools :
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-  <img src="https://www.svgrepo.com/show/94397/java-script-logo.svg" width="60"/>
+  <img src="https://www.svgrepo.com/show/357915/java-script.svg" width="60"/>
   <img src="https://www.svgrepo.com/show/452091/python.svg" width="60"/>
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="60"/>
   <img src="https://playwright.dev/img/playwright-logo.svg" width="60"/>
   <img src="https://github.com/cypress-io/cypress-icons/blob/master/src/icons/icon_128x128.png" width="60"/>
   <img src="https://www.svgrepo.com/show/353935/jira.svg" width="60"/>
   <img src="https://www.svgrepo.com/show/373525/confluence.svg" width="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="60"/>
+  <img src="https://www.svgrepo.com/show/509966/git.svg" width="60"/>
 </div>
 
 ---
